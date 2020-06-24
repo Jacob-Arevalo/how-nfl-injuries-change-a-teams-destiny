@@ -15,7 +15,6 @@ Demo Day (06/25/2020)
 Data Questions
 Do injuries increase as the season progresses?
 Are NFL rule changes really helping player safety and decreasing injuries?
-What is the average number of injuries in the regular season for a team?
 The NFL has put a lot of effort into making kick offs and punts safer, is it working?
 Data Sources
 http://nflsavant.com/about.php
@@ -24,3 +23,5 @@ https://operations.nfl.com/football-ops/nfl-ops-honoring-the-game/health-safety-
 
 Known Issues and Challenges
 I am anticipating some issues with cleaning the data. There are a few instances of penalty plays getting called back and the data for the non play being logged. My plan for dealing with this is using EXCEL to find inconsistent final yardages and use VLOOKUP and HLOOKUP to find and fix these errors.
+
+Power BI workbook: https://app.powerbi.com/groups/me/reports/54ce6e48-af71-47c1-90f8-ee20ee0cd5ff?ctid=101da587-1843-4f52-8b8a-17b069c66d33
